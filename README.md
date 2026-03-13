@@ -19,3 +19,9 @@ For this project, the technology used:
 - Triage & Interpretation: Analyzing raw scan data to prioritize issues based on severity.
 - Documentation: Authoring executive-level reports that bridge the gap between technical findings and business impact.
 
+
+# Project Setup
+* Download ZAP from the official website.
+    * I downloaded the macOS(Apple Silicon - aarch64) version
+      
+      
